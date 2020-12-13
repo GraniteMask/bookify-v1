@@ -1,8 +1,12 @@
 # bookify-v1
-Link: https://bookify-v1.herokuapp.com/
+
+![Bookify Home Page](https://github.com/GraniteMask/bookify-v1/blob/master/Bookify.png?raw=true)
+
 Book Ecommerce site where you can buy books and pay using paypal, debit card and credit card. Also you can sell books by making a seller account
 
-# Highlighted Features:
+Link: https://bookify-v1.herokuapp.com/
+
+## Highlighted Features:
 
 1) Creating buyer and seller account
 2) Login and SignUp using JWT
@@ -13,7 +17,7 @@ Book Ecommerce site where you can buy books and pay using paypal, debit card and
 7) Sorting books according to their categories to find them easily
 8) View your order history
 
-# SNEEK-PEEK of the technologies I used:
+## SNEEK-PEEK of the technologies I used:
 
 1) MERN stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 2) Database : Mongo ATLAS
