@@ -1,6 +1,6 @@
 # bookify-v1
 
-![Bookify Home Page](https://github.com/GraniteMask/bookify-v1/blob/master/Bookify.png?raw=true)
+![image](https://user-images.githubusercontent.com/63235918/182243590-b9ab687b-c464-4459-ab26-985447ca4cd8.png)
 
 Book Ecommerce site where you can buy books and pay using paypal, debit card and credit card. Also you can sell books by making a seller account
 
